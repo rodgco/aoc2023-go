@@ -1,10 +1,10 @@
 # Advent of Code 2023 - Go Lang
 
-My attempt to solve [Advent of Code 202](https://adventofcode.com/2023) using the (Go)[https://go.dev] Language.
+My attempt to solve [Advent of Code 202](https://adventofcode.com/2023) using the [Go](https://go.dev) Language.
 
 ## Tools
 
-* (Advent of Code Downloader - aocdl)[https://github.com/GreenLightning/advent-of-code-downloader]
+* [Advent of Code Downloader - aocdl](https://github.com/GreenLightning/advent-of-code-downloader)
 
 ## Configuration
 
